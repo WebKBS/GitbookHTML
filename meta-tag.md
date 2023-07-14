@@ -24,6 +24,7 @@ description: HTML 초기 <Head> 메타태그 설정
   <meta property="og:title" content="" />
   <meta property="og:image" content="" />
   <meta property="og:description" content="" />
+  
   <title></title>
 
   <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="" />
